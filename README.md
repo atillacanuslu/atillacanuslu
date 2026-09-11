@@ -42,19 +42,19 @@ material and declines rather than guessing. Sample data.</sub>
 
 ## 💼 Experience
 
-**Software Engineer** — MemorySync LLC · *Sep 2025 – Present* · Redmond, WA
+**Software Engineer** — MemorySync LLC · *Sep 2025 – Present* · Redmond, WA<br>
 Built **EduSync**, a cross-platform writing-analytics product, end to end: ingestion and
 text-processing pipelines that parse student work across **Canvas LMS (LTI 1.3)**,
 Microsoft Word, and Google Docs; a serverless multi-tenant backend on Firebase Cloud
 Functions with JWT auth. Published on the **Canvas App Center, Microsoft AppSource, and
 Google Workspace Marketplace** — active pilot at Seattle University.
 
-**Software Developer Intern** — TaleWorlds Entertainment · *Summer 2023* · Ankara, Türkiye
+**Software Developer Intern** — TaleWorlds Entertainment · *Summer 2023* · Ankara, Türkiye<br>
 Shipped AI and gameplay features in C++/C# for **Mount & Blade II: Bannerlord** —
 optimized NPC pathfinding for large-scale battles and built a dynamic random-encounter
 mission system.
 
-**Software Engineering Intern** — Credit Registration Office · *Summer 2022* · Istanbul, Türkiye
+**Software Engineering Intern** — Credit Registration Office · *Summer 2022* · Istanbul, Türkiye<br>
 Engineered C++ real-time, high-volume data-processing pipelines for credit-scoring
 systems, cutting latency and improving reliability under heavy load.
 
