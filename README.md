@@ -6,12 +6,12 @@ RAG pipelines, agent tooling, and serverless backends that run in production for
 users. USC ECE '25, currently shipping education-technology integrations at MemorySync
 and building a team-knowledge platform on Azure.
 
-📍 Redmond, WA &nbsp;·&nbsp; ✉️ [atillacanuslu@gmail.com](mailto:atillacanuslu@gmail.com)
-&nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/atilla-can-uslu-599913201)
+Redmond, WA &nbsp;·&nbsp; [atillacanuslu@gmail.com](mailto:atillacanuslu@gmail.com)
+&nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/atilla-can-uslu-599913201)
 
 ---
 
-## 🧠 MindSync — ask your teammates when they're not around
+## MindSync — ask your teammates when they're not around
 
 Every engineer carries context nobody wrote down. MindSync turns a person's own GitHub
 history and AI coding sessions into a **mind** their teammates can question — from the
@@ -40,7 +40,7 @@ material and declines rather than guessing. Sample data.</sub>
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Engineer** — MemorySync LLC · *Sep 2025 – Present* · Redmond, WA<br>
 Built **EduSync**, a cross-platform writing-analytics product, end to end: ingestion and
@@ -60,7 +60,7 @@ systems, cutting latency and improving reliability under heavy load.
 
 ---
 
-## 🔭 Other work
+## Other work
 
 **[memorysync-ai](https://github.com/atillacanuslu/memorysync-ai)** — AI-powered personal
 file assistant. A local-document RAG system with OpenAI embeddings over Qdrant, a
@@ -70,7 +70,7 @@ with live file-system monitoring.
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 **Languages** — Python · C · C++ · C# · JavaScript · TypeScript · Dart
 
@@ -91,7 +91,7 @@ workflow: everything generated gets reviewed and tested before it ships.
 
 ---
 
-## 📜 In progress
+## In progress
 
 - Microsoft Certified: **Azure AI Apps and Agents Developer Associate (AI-103)**
 - **AWS Certified AI Practitioner**
