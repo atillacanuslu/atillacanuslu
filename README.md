@@ -3,8 +3,11 @@
 **Software engineer. I build AI systems and the infrastructure underneath them.**
 
 RAG pipelines, agent tooling, and serverless backends that run in production for real
-users. USC ECE '25, currently shipping education-technology integrations at MemorySync
-and building a team-knowledge platform on Azure.
+users. Currently shipping education-technology integrations at MemorySync and building
+a team-knowledge platform on Azure.
+
+B.S. in Electrical and Computer Engineering from the **University of Southern California**
+(2025), one of the most prestigious universities in the US.
 
 Ankara, Türkiye &nbsp;·&nbsp; [atillacanuslu@gmail.com](mailto:atillacanuslu@gmail.com)
 &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/atilla-can-uslu-599913201)
